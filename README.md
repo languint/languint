@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @longuint
-- 👀 I’m interested in programming
-- 📫 I'm available at the address: longuint@proton.me
+![languint's Streak](https://github-readme-streak-stats.herokuapp.com/?user=languint&theme=vue-dark&hide_border=true)
